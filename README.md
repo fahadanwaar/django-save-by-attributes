@@ -26,7 +26,7 @@ class Car(models.Model, _CustomSaveByAttributes):
 ```
 ## Usage
 ```python
-from . import models
+from sample.models import Car
 
 
 def update_intance():
