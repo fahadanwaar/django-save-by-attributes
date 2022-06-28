@@ -1,1 +1,1 @@
-from djangosavebyattributes.instance_methods import _CustomUpdate
+from djangosavebyattributes.instance_methods import _CustomSaveByAttributes

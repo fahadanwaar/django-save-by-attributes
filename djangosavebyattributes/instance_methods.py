@@ -1,7 +1,7 @@
 from django.apps import apps
 from django.db import connection
 
-class _CustomUpdate(object):
+class _CustomSaveByAttributes(object):
     def save_by_hash(self, match_field_hash={}):
         if match_field_hash == {}:
             raise ValueError("input hash cannot be empty")
