@@ -4,7 +4,7 @@ djangosavebyattributes is a Python library for assisting models in saving attrib
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install djangosavebyattributes.
 
 ```bash
 pip install djangosavebyattributes
