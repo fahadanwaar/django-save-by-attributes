@@ -1,6 +1,6 @@
 # djangosavebyattributes
 
-djangosavebyattributes is a Python library for assisting models in saving attributes based on hash which is mapped on attributes of a model on Django ORM. The Project aims to save only attributes which are given as dict_hash.
+djangosavebyattributes is a Python library for assisting models in saving attributes based on hash which is mapped on attributes of a model on Django ORM. The Project aims to save only attributes which are given as dict_hash. Only those attributes would be saved which are given in the hash.
 
 ## Installation
 
