@@ -31,7 +31,7 @@ from sample.models import Car
 
 def update_intance():
     c = Car.objects.get(id=1)
-    s.save_by_hash(
+    c.save_by_hash(
       match_field_hash={"name": "Honda"}
     )
 
